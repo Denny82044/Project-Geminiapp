@@ -7,7 +7,7 @@ A phone number, Node.js (Windows, Linux, Termux, etc.), and a Google Gemini key.
 
 # Instructions
 1. Once you have your Google Gemini key, put it in the .env file.
-2. Open a cmd prompt where index.js is located, and run "npm init -y" and then
+2. Open a cmd prompt where index.js" is located, and run "npm init -y" and then
 "npm install @whiskeysockets/baileys qrcode-terminal openai dotenv"
 3. Run the script (using "node index.js in the folder with the script located within it), and on WhatsApp find your linked devices page.
 
