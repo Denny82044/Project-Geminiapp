@@ -3,7 +3,7 @@
 A project working to bring full Google Gemini support to WhatsApp.
 
 # Requirements
-A phone number, Node.js (Windows, Linux, Android ( with Termux), etc.), and a Google Gemini key. (obtained at https://aistudio.google.com/app/apikey)
+A phone number, Node.js (Windows, Linux, Android (with Termux), etc.), and a Google Gemini key. (obtained at https://aistudio.google.com/app/apikey)
 
 # Server Setup
 1. Once you have your Google Gemini key, put it in the .env file.
