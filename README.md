@@ -19,4 +19,4 @@ A phone number, Node.js (Windows, Linux, Android with Termux, etc.), and a Googl
 5. Now use the wake word "Gemini" followed by a message to activate Gemini.
 
 # Troubleshooting
-If you're facing issues, check the Troubleshooting Guide
+If you're facing issues, check the [Troubleshooting Guide] (https://github.com/Denny82044/Project-Geminiapp/blob/main/troubleshooting/guide)
