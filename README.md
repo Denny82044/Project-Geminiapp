@@ -16,4 +16,4 @@ A phone number, Node.js (Windows, Linux, Termux, etc.), and a Google Gemini key.
 5. Now use the wake word "Gemini" in any chat to talk to Gemini.
 # Log the bot in (iOS)
 4. Open WhatsApp, go to settings in the bottom right corner, and click linked devices, then scan the qr code present in the terminal.
-5. Now use the wake word "Gemini" in any chat to talk to Gemini.
+5. Now use the wake word "Gemini" followed by a message to activate Gemini.
